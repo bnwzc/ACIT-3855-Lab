@@ -1,0 +1,61 @@
+openapi: 3.0.0
+info:
+  description: This API provides event stats
+  version: "1.0.0"
+  title: Stats API
+  contact:
+    email: kzhu28@bcit.ca
+paths:
+  /stats:
+    get:
+      summary: Gets the event stats
+      operationId: app.get_stats
+      description: Gets match and disconnection processsed statistics
+      responses:
+        '200':
+          description: Successfully returned a list of events
+          content:
+            application/json:
+              schema:
+                type: object
+                items:
+                  $ref: '#/components/schemas/ReadingStats'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+components:
+  schemas:
+    ReadingStats:
+      required:
+        - num_match_readings
+        - num_disconnection_readings
+        - max_match_duration
+        - max_disconnection_latency
+        - last_updated
+      properties:
+        num_match_readings:
+          type: integer
+          example: 5000
+        num_disconnection_readings:
+          type: integer
+          example: 200
+        max_match_duration:
+          type: number
+          example: 30.5
+        max_disconnection_latency:
+          type: integer
+          example: 150
+        last_updated:
+          type: string
+          example: "2024-10-09T04:54:09"
+      type: object
+
+
+  
+

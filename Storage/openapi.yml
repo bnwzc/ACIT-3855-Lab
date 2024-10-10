@@ -1,0 +1,190 @@
+openapi: 3.0.0
+info:
+  title: Simple dota2 API
+  description: This is a dota2 API
+  contact:
+    email: kzhu28@my.bcit.ca
+  license:
+    name: Apache 2.0
+    url: http://www.apache.org/licenses/LICENSE-2.0.html
+  version: 1.0.0
+servers:
+- url: /
+tags:
+- name: dota2
+  description: Operations available to dota2
+paths:
+  /dota2/match:
+    post:
+      tags:
+      - dota2
+      summary: reports matches
+      description: Add a new dota2 match info to the system.
+      operationId: app.report_dota2_match
+      requestBody:
+        description: Dota2 matches item to add
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Dota2Match'
+      responses:
+        "201":
+          description: item created
+        "400":
+          description: "invalid input, object invalid"
+  /dota2/match_reading:
+    get:
+      tags:
+      - match
+      summary: gets new match readings
+      operationId: app.get_match_readings
+      description: Gets match readings added after a timestamp
+      parameters:
+        - name: start_timestamp
+          in: query
+          description: Limits the number of matches returned
+          schema:
+            type: string
+            format: date-time
+            example: 2016-08-29T09:12:33.001Z
+        - name: end_timestamp
+          in: query
+          description: Limits the number of readings returned
+          schema:
+            type: string
+            format: date-time
+            example: 2016-08-29T09:12:33.001Z
+      responses:
+        '200':
+          description: Successfully returned a list of match events
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Dota2Match'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+
+  /dota2/disconnection:
+    post:
+      tags:
+      - dota2
+      summary: reports disconnections
+      description: |
+        Add a new dota2 disconnection info to the system.
+      operationId: app.report_dota2_disconnection
+      requestBody:
+        description: Dota2 disconnection item to add
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Dota2Disconnection'
+      responses:
+        "201":
+          description: item created
+        "400":
+          description: "invalid input, object invalid"
+  /dota2/disconnection_reading:
+    get:
+      tags:
+      - disconnection
+      summary: gets new disconnection readings
+      operationId: app.get_disconnection_readings
+      description: Gets disconnection readings added after a timestamp
+      parameters:
+        - name: start_timestamp
+          in: query
+          description: Limits the number of disconnections returned
+          schema:
+            type: string
+            format: date-time
+            example: 2016-08-29T09:12:33.001Z
+        - name: end_timestamp
+          in: query
+          description: Limits the number of readings returned
+          schema:
+            type: string
+            format: date-time
+            example: 2016-08-29T09:12:33.001Z
+      responses:
+        '200':
+          description: Successfully returned a list of disconnection events
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Dota2Disconnection'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+components:
+  schemas:
+    Dota2Match:
+      required:
+      - duration
+      - match_id
+      - rank
+      - winner
+      - trace_id
+      type: object
+      properties:
+        match_id:
+          type: string
+          format: uuid
+          example: d290f1ee-6c54-4b01-90e6-d701748f0851
+        rank:
+          type: string
+          example: Immortal
+        winner:
+          type: boolean
+          example: true
+        duration:
+          type: number
+          example: 33.5
+        trace_id:
+          type: string
+          example: d290f1ee-6c54-4b01-90e6-d701748f0851
+    Dota2Disconnection:
+      required:
+      - disconnection_id
+      - duration
+      - latency
+      - region
+      - server
+      - trace_id
+      type: object
+      properties:
+        disconnection_id:
+          type: string
+          format: uuid
+          example: d290f1ee-6c54-4b01-90e6-d701748f0851
+        region:
+          type: string
+          example: North America
+        server:
+          type: string
+          example: NA East
+        duration:
+          type: number
+          example: 1.1
+        latency:
+          type: integer
+          example: 80
+        trace_id:
+          type: string
+          example: d290f1ee-6c54-4b01-90e6-d701748f0851

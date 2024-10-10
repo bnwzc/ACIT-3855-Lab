@@ -1,0 +1,978 @@
+2024-10-09 02:53:25,459 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 02:53:30,462 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 02:53:35,460 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 02:53:40,463 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 02:53:45,463 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:32:03,390 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:32:08,398 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:32:13,391 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:32:18,399 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:34:04,160 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:35:11,965 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:35:16,957 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:36:04,417 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:36:09,424 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:36:50,919 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:36:55,922 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:37:26,681 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:37:30,779 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:37:30,779 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:37:31,670 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:37:35,801 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:37:35,802 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:37:36,667 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:37:40,789 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:37:40,789 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:37:41,661 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:37:45,705 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:37:45,705 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:38:06,719 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:38:10,768 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:38:10,768 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:38:11,714 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:38:15,762 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:38:15,762 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:38:16,715 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:38:20,779 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:38:20,787 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:38:21,714 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:38:25,814 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:38:25,814 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:38:26,711 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:38:30,806 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:38:30,806 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:38:31,718 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:38:35,791 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:38:35,791 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:38:36,723 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:38:40,792 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:38:40,792 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:38:41,720 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:38:45,836 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:38:45,837 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:38:46,711 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:38:50,777 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:38:50,777 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:38:51,717 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:38:55,778 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:38:55,779 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:38:56,716 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:39:00,793 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:39:00,793 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:39:01,717 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:39:05,793 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:39:05,793 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:39:06,714 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:39:10,775 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:39:10,775 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:39:11,721 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:39:15,811 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:39:15,811 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:39:16,721 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:39:20,810 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:39:20,810 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:39:21,711 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:39:25,782 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:39:25,782 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:39:26,715 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:39:30,794 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:39:30,794 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:40:36,641 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:40:40,714 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:40:40,715 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:40:41,637 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:40:45,721 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:40:45,721 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:40:46,637 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:40:50,707 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:40:50,707 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:40:51,634 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:40:55,687 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:40:55,687 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:40:56,634 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:41:00,752 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:41:00,753 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:41:01,642 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:41:05,734 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:41:05,735 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:41:06,647 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:41:10,732 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:41:10,732 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:41:11,631 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:41:15,699 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:41:15,699 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:41:16,635 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:41:20,700 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:41:20,701 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:43:27,814 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:43:31,902 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:43:31,903 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:43:32,822 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:43:36,893 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:43:36,893 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:43:37,826 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:43:41,911 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:43:41,911 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:43:42,820 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:43:46,909 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 03:43:46,910 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:43:47,819 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:43:51,954 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 03:43:51,954 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:43:52,813 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:43:56,885 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 03:43:56,885 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:43:57,823 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:44:01,914 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 03:44:01,914 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:44:02,826 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:44:06,939 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 03:44:06,939 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:44:07,812 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:44:11,899 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 03:44:11,899 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:44:12,816 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:44:16,874 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 03:44:16,874 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:44:17,815 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:44:21,925 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 03:44:21,925 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:44:22,815 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:44:26,892 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 03:44:26,892 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:44:27,816 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:44:31,905 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 03:44:31,905 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:44:32,815 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:44:36,908 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 03:44:36,908 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:44:37,815 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:44:41,869 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 03:44:41,870 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:44:42,815 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:44:46,901 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 03:44:46,901 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:44:47,820 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:44:51,891 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 03:44:51,892 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:44:52,816 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:44:56,864 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 03:44:56,864 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:44:57,815 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:45:01,877 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 03:45:01,877 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:45:02,814 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:45:06,924 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 03:45:06,924 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:45:07,814 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:45:11,893 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 03:45:11,893 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:45:12,815 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:45:16,909 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 03:45:16,909 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:45:17,815 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:45:21,921 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 03:45:21,921 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:45:22,815 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:45:26,916 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 03:45:26,916 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:45:27,817 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:45:31,935 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 03:45:31,935 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:45:32,818 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:45:36,932 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 03:45:36,933 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:45:37,814 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:45:41,921 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 03:45:41,922 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:45:42,824 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:45:46,932 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 03:45:46,932 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:45:47,817 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:45:51,936 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 03:45:51,936 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:45:52,813 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:45:56,913 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 03:45:56,913 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:45:57,815 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:46:01,907 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 03:46:01,907 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:46:02,821 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:46:06,941 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 03:46:06,941 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:46:07,819 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:46:11,900 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 03:46:11,900 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:46:12,813 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:46:16,908 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 03:46:16,909 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:46:17,819 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:46:21,934 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 03:46:21,934 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 03:46:22,813 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:46:26,935 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 03:46:26,935 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 03:46:27,823 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:46:31,897 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 03:46:31,897 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 03:46:32,812 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:46:36,893 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 03:46:36,893 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 03:46:37,812 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:46:41,889 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 03:46:41,889 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 03:46:42,817 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:46:46,888 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 03:46:46,888 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 03:46:47,815 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:46:51,890 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 03:46:51,890 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 03:46:52,823 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:46:56,897 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 03:46:56,897 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 03:46:57,815 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:47:01,882 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 03:47:01,882 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 03:47:02,814 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:48:06,926 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 03:48:06,926 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 03:48:07,815 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:49:11,888 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 03:49:11,888 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 03:58:59,820 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:59:03,882 - basicLogger - ERROR - Error fetching match events: 405
+2024-10-09 03:59:03,882 - basicLogger - ERROR - Error fetching disconnection events: 405
+2024-10-09 03:59:04,826 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:59:08,889 - basicLogger - ERROR - Error fetching match events: 405
+2024-10-09 03:59:08,893 - basicLogger - ERROR - Error fetching disconnection events: 405
+2024-10-09 03:59:09,827 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:59:13,900 - basicLogger - ERROR - Error fetching match events: 405
+2024-10-09 03:59:13,900 - basicLogger - ERROR - Error fetching disconnection events: 405
+2024-10-09 03:59:14,815 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:59:18,908 - basicLogger - ERROR - Error fetching match events: 405
+2024-10-09 03:59:18,908 - basicLogger - ERROR - Error fetching disconnection events: 405
+2024-10-09 03:59:19,820 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:59:23,880 - basicLogger - ERROR - Error fetching match events: 405
+2024-10-09 03:59:23,880 - basicLogger - ERROR - Error fetching disconnection events: 405
+2024-10-09 03:59:24,816 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 03:59:28,931 - basicLogger - ERROR - Error fetching match events: 405
+2024-10-09 03:59:28,931 - basicLogger - ERROR - Error fetching disconnection events: 405
+2024-10-09 03:59:29,826 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:00:01,345 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:00:05,459 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 04:00:05,459 - basicLogger - ERROR - Error fetching disconnection events: 500
+2024-10-09 04:00:06,344 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:00:10,448 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 04:00:10,449 - basicLogger - ERROR - Error fetching disconnection events: 500
+2024-10-09 04:00:11,352 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:00:15,474 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 04:00:15,475 - basicLogger - ERROR - Error fetching disconnection events: 500
+2024-10-09 04:00:16,342 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:00:20,438 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 04:00:20,438 - basicLogger - ERROR - Error fetching disconnection events: 500
+2024-10-09 04:00:21,344 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:00:25,416 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 04:00:25,416 - basicLogger - ERROR - Error fetching disconnection events: 500
+2024-10-09 04:00:26,342 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:00:30,433 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 04:00:30,433 - basicLogger - ERROR - Error fetching disconnection events: 500
+2024-10-09 04:00:31,354 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:00:35,485 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 04:00:35,485 - basicLogger - ERROR - Error fetching disconnection events: 500
+2024-10-09 04:01:54,651 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:01:58,739 - basicLogger - ERROR - Error fetching match events: 500
+2024-10-09 04:01:58,739 - basicLogger - ERROR - Error fetching disconnection events: 500
+2024-10-09 04:01:59,653 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:02:04,651 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:02:09,656 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:02:14,651 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:02:19,648 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:02:24,648 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:02:29,658 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:02:34,650 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:02:39,657 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:02:44,660 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:02:49,660 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:02:54,652 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:02:59,655 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:03:04,656 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:03:09,649 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:03:14,652 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:03:19,653 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:03:24,661 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:03:29,660 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:03:34,660 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:03:39,649 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:03:44,654 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:03:49,658 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:03:54,659 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:03:59,653 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:04:04,651 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:04:09,663 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:04:14,661 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:04:19,655 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:04:24,660 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:04:29,650 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:04:34,754 - basicLogger - INFO - Number of match events received: 121
+2024-10-09 04:04:34,754 - basicLogger - INFO - Number of match events received: 120
+2024-10-09 04:04:39,657 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:04:43,762 - basicLogger - INFO - Number of match events received: 121
+2024-10-09 04:04:43,762 - basicLogger - INFO - Number of match events received: 120
+2024-10-09 04:04:44,657 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:04:48,766 - basicLogger - INFO - Number of match events received: 121
+2024-10-09 04:04:48,766 - basicLogger - INFO - Number of match events received: 120
+2024-10-09 04:04:49,658 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:04:53,724 - basicLogger - INFO - Number of match events received: 121
+2024-10-09 04:04:53,725 - basicLogger - INFO - Number of match events received: 120
+2024-10-09 04:04:54,650 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:04:58,748 - basicLogger - INFO - Number of match events received: 121
+2024-10-09 04:04:58,748 - basicLogger - INFO - Number of match events received: 120
+2024-10-09 04:04:59,656 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:05:03,751 - basicLogger - INFO - Number of match events received: 128
+2024-10-09 04:05:03,751 - basicLogger - INFO - Number of match events received: 120
+2024-10-09 04:05:04,663 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:05:08,782 - basicLogger - INFO - Number of match events received: 141
+2024-10-09 04:05:08,782 - basicLogger - INFO - Number of match events received: 130
+2024-10-09 04:05:09,656 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:05:13,763 - basicLogger - INFO - Number of match events received: 154
+2024-10-09 04:05:13,763 - basicLogger - INFO - Number of match events received: 140
+2024-10-09 04:05:14,656 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:05:18,798 - basicLogger - INFO - Number of match events received: 161
+2024-10-09 04:05:18,798 - basicLogger - INFO - Number of match events received: 160
+2024-10-09 04:05:19,656 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:05:23,782 - basicLogger - INFO - Number of match events received: 161
+2024-10-09 04:05:23,782 - basicLogger - INFO - Number of match events received: 160
+2024-10-09 04:05:24,659 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:05:28,743 - basicLogger - INFO - Number of match events received: 161
+2024-10-09 04:05:28,743 - basicLogger - INFO - Number of match events received: 160
+2024-10-09 04:05:29,664 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:05:33,743 - basicLogger - INFO - Number of match events received: 161
+2024-10-09 04:05:33,743 - basicLogger - INFO - Number of match events received: 160
+2024-10-09 04:05:34,660 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:05:38,750 - basicLogger - INFO - Number of match events received: 161
+2024-10-09 04:05:38,750 - basicLogger - INFO - Number of match events received: 160
+2024-10-09 04:05:39,661 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:05:43,770 - basicLogger - INFO - Number of match events received: 161
+2024-10-09 04:05:43,770 - basicLogger - INFO - Number of match events received: 160
+2024-10-09 04:05:44,651 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:05:48,750 - basicLogger - INFO - Number of match events received: 161
+2024-10-09 04:05:48,750 - basicLogger - INFO - Number of match events received: 160
+2024-10-09 04:05:49,663 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:05:53,781 - basicLogger - INFO - Number of match events received: 161
+2024-10-09 04:05:53,781 - basicLogger - INFO - Number of match events received: 160
+2024-10-09 04:05:54,659 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:05:58,762 - basicLogger - INFO - Number of match events received: 161
+2024-10-09 04:05:58,763 - basicLogger - INFO - Number of match events received: 160
+2024-10-09 04:05:59,650 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:06:03,701 - basicLogger - INFO - Number of match events received: 161
+2024-10-09 04:06:03,702 - basicLogger - INFO - Number of match events received: 160
+2024-10-09 04:06:04,649 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:06:08,724 - basicLogger - INFO - Number of match events received: 161
+2024-10-09 04:06:08,724 - basicLogger - INFO - Number of match events received: 160
+2024-10-09 04:06:09,657 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:06:13,744 - basicLogger - INFO - Number of match events received: 161
+2024-10-09 04:06:13,744 - basicLogger - INFO - Number of match events received: 160
+2024-10-09 04:06:14,650 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:06:18,739 - basicLogger - INFO - Number of match events received: 161
+2024-10-09 04:06:18,739 - basicLogger - INFO - Number of match events received: 160
+2024-10-09 04:07:12,467 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:07:16,530 - basicLogger - INFO - Number of match events received: 161
+2024-10-09 04:07:16,530 - basicLogger - INFO - Number of match events received: 160
+2024-10-09 04:08:06,580 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:08:10,708 - basicLogger - INFO - Number of match events received: 161
+2024-10-09 04:08:10,708 - basicLogger - INFO - Number of match events received: 160
+2024-10-09 04:08:11,579 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:08:15,664 - basicLogger - INFO - Number of match events received: 161
+2024-10-09 04:08:15,664 - basicLogger - INFO - Number of match events received: 160
+2024-10-09 04:08:16,574 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:08:20,680 - basicLogger - INFO - Number of match events received: 161
+2024-10-09 04:08:20,680 - basicLogger - INFO - Number of match events received: 160
+2024-10-09 04:08:21,576 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:08:25,680 - basicLogger - INFO - Number of match events received: 161
+2024-10-09 04:08:25,680 - basicLogger - INFO - Number of match events received: 160
+2024-10-09 04:08:26,577 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:08:30,639 - basicLogger - INFO - Number of match events received: 161
+2024-10-09 04:08:30,640 - basicLogger - INFO - Number of match events received: 160
+2024-10-09 04:08:31,570 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:08:35,631 - basicLogger - INFO - Number of match events received: 161
+2024-10-09 04:08:35,631 - basicLogger - INFO - Number of match events received: 160
+2024-10-09 04:08:36,569 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:08:40,625 - basicLogger - INFO - Number of match events received: 161
+2024-10-09 04:08:40,625 - basicLogger - INFO - Number of match events received: 160
+2024-10-09 04:20:19,639 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:20:23,741 - basicLogger - INFO - Number of match events received: 161
+2024-10-09 04:20:23,741 - basicLogger - INFO - Number of match events received: 160
+2024-10-09 04:20:24,637 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:20:28,707 - basicLogger - INFO - Number of match events received: 20
+2024-10-09 04:20:28,713 - basicLogger - INFO - Number of match events received: 10
+2024-10-09 04:20:29,634 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:20:33,739 - basicLogger - INFO - Number of match events received: 10
+2024-10-09 04:20:33,739 - basicLogger - INFO - Number of match events received: 10
+2024-10-09 04:20:34,642 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:20:38,759 - basicLogger - INFO - Number of match events received: 10
+2024-10-09 04:20:38,759 - basicLogger - INFO - Number of match events received: 20
+2024-10-09 04:20:39,637 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:20:43,695 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:20:43,695 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:20:56,338 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:21:01,337 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:21:05,387 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:21:05,387 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:22:51,086 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:22:55,193 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:22:55,193 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:22:56,084 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:23:00,183 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:23:00,183 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:23:01,083 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:23:05,203 - basicLogger - INFO - Number of match events received: 10
+2024-10-09 04:23:05,203 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:23:06,093 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:23:10,215 - basicLogger - INFO - Number of match events received: 10
+2024-10-09 04:23:10,215 - basicLogger - INFO - Number of match events received: 20
+2024-10-09 04:23:11,087 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:23:15,180 - basicLogger - INFO - Number of match events received: 20
+2024-10-09 04:23:15,180 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:23:16,091 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:23:20,177 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:23:20,177 - basicLogger - INFO - Number of match events received: 20
+2024-10-09 04:23:21,088 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:23:25,199 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:23:25,199 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:23:26,083 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:23:30,198 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:23:30,198 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:23:39,665 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:23:43,758 - basicLogger - INFO - Number of match events received: 10
+2024-10-09 04:23:43,758 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:23:44,669 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:23:48,784 - basicLogger - INFO - Number of match events received: 10
+2024-10-09 04:23:48,785 - basicLogger - INFO - Number of disconnection events received: 10
+2024-10-09 04:23:49,667 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:23:53,765 - basicLogger - INFO - Number of match events received: 20
+2024-10-09 04:23:53,766 - basicLogger - INFO - Number of disconnection events received: 10
+2024-10-09 04:23:54,675 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:23:58,779 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:23:58,779 - basicLogger - INFO - Number of disconnection events received: 20
+2024-10-09 04:23:59,671 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:24:03,777 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:24:03,777 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:24:04,672 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:24:08,778 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:24:08,778 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:24:09,672 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:24:13,776 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:24:13,776 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:24:14,671 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:24:18,785 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:24:18,785 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:24:19,666 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:24:23,756 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:24:23,756 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:24:24,664 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:24:28,776 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:24:28,776 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:24:29,670 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:24:33,790 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:24:33,791 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:24:34,673 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:24:38,771 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:24:38,772 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:24:39,665 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:24:43,776 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:24:43,776 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:24:44,672 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:24:48,763 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:24:48,763 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:24:49,672 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:24:53,775 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:24:53,775 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:24:54,666 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:24:58,772 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:24:58,772 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:24:59,667 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:25:03,775 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:25:03,775 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:25:04,673 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:25:08,803 - basicLogger - INFO - Number of match events received: 20
+2024-10-09 04:25:08,803 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:25:09,666 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:25:13,767 - basicLogger - INFO - Number of match events received: 2
+2024-10-09 04:25:13,767 - basicLogger - INFO - Number of disconnection events received: 20
+2024-10-09 04:25:14,661 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:25:18,792 - basicLogger - INFO - Number of match events received: 18
+2024-10-09 04:25:18,793 - basicLogger - INFO - Number of disconnection events received: 10
+2024-10-09 04:25:19,667 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:25:23,771 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:25:23,771 - basicLogger - INFO - Number of disconnection events received: 10
+2024-10-09 04:25:24,671 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:25:28,787 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:25:28,789 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:25:29,662 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:25:33,760 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:25:33,760 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:25:34,671 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:25:38,755 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:25:38,755 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:25:39,664 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:25:43,761 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:25:43,761 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:25:44,661 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:25:48,751 - basicLogger - INFO - Number of match events received: 20
+2024-10-09 04:25:48,752 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:25:49,664 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:25:53,775 - basicLogger - INFO - Number of match events received: 8
+2024-10-09 04:25:53,775 - basicLogger - INFO - Number of disconnection events received: 20
+2024-10-09 04:25:54,661 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:25:58,767 - basicLogger - INFO - Number of match events received: 12
+2024-10-09 04:25:58,768 - basicLogger - INFO - Number of disconnection events received: 10
+2024-10-09 04:25:59,666 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:26:03,738 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:26:03,739 - basicLogger - INFO - Number of disconnection events received: 10
+2024-10-09 04:26:04,669 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:26:08,772 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:26:08,772 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:26:09,674 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:26:13,753 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:26:13,753 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:26:14,671 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:26:18,754 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:26:18,754 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:26:19,670 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:26:23,755 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:26:23,755 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:26:24,665 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:26:28,745 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:26:28,745 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:26:29,661 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:26:33,747 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:26:33,747 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:26:34,675 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:26:38,776 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:26:38,777 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:26:39,673 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:26:43,764 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:26:43,764 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:26:44,671 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:26:48,761 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:26:48,761 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:26:49,676 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:26:53,772 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:26:53,772 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:26:54,672 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:26:58,790 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:26:58,790 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:26:59,672 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:27:03,756 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:27:03,757 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:27:04,667 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:27:08,780 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:27:08,781 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:27:09,662 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:27:13,767 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:27:13,768 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:27:14,663 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:27:18,763 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:27:18,763 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:27:19,674 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:27:23,788 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:27:23,788 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:27:24,673 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:27:28,761 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:27:28,761 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:27:29,675 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:27:33,765 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:27:33,765 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:27:34,664 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:27:38,783 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:27:38,783 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:32:37,693 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:32:41,802 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:32:41,802 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:32:42,699 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:32:46,763 - basicLogger - INFO - Number of match events received: 10
+2024-10-09 04:32:46,763 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:32:47,691 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:32:51,762 - basicLogger - INFO - Number of match events received: 10
+2024-10-09 04:32:51,764 - basicLogger - INFO - Number of disconnection events received: 14
+2024-10-09 04:32:52,687 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:32:56,743 - basicLogger - INFO - Number of match events received: 20
+2024-10-09 04:32:56,743 - basicLogger - INFO - Number of disconnection events received: 6
+2024-10-09 04:32:57,692 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:33:01,753 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:33:01,760 - basicLogger - INFO - Number of disconnection events received: 20
+2024-10-09 04:33:02,691 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:33:06,809 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:33:06,809 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:33:07,701 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:33:11,801 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:33:11,801 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:33:12,690 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:33:16,785 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:33:16,786 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:33:17,696 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:33:21,790 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:33:21,790 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:33:22,690 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:33:26,797 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:33:26,798 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:33:27,704 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:33:31,818 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:33:31,819 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:33:32,703 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:33:36,812 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:33:36,812 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:33:37,696 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:33:41,785 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:33:41,785 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:33:42,699 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:33:46,806 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:33:46,806 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:33:47,688 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:33:51,799 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:33:51,799 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:33:52,702 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:33:56,810 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:33:56,810 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:33:57,694 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:34:01,798 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:34:01,798 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:34:02,700 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:34:06,828 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:34:06,828 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:34:07,696 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:34:11,801 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:34:11,801 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:34:12,687 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:34:16,764 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:34:16,764 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:34:17,691 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:34:21,745 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:34:21,746 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:36:24,382 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:36:28,481 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:36:28,481 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:36:29,378 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:36:33,488 - basicLogger - INFO - Number of match events received: 20
+2024-10-09 04:36:33,488 - basicLogger - INFO - Number of disconnection events received: 7
+2024-10-09 04:36:34,375 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:36:38,479 - basicLogger - INFO - Number of match events received: 10
+2024-10-09 04:36:38,479 - basicLogger - INFO - Number of disconnection events received: 13
+2024-10-09 04:36:39,374 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:36:43,488 - basicLogger - INFO - Number of match events received: 10
+2024-10-09 04:36:43,488 - basicLogger - INFO - Number of disconnection events received: 12
+2024-10-09 04:36:44,376 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:36:48,481 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:36:48,481 - basicLogger - INFO - Number of disconnection events received: 8
+2024-10-09 04:39:28,444 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:39:32,551 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:39:32,551 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:39:33,450 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:39:37,525 - basicLogger - INFO - Number of match events received: 20
+2024-10-09 04:39:37,525 - basicLogger - INFO - Number of disconnection events received: 10
+2024-10-09 04:39:38,454 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:39:42,577 - basicLogger - INFO - Number of match events received: 10
+2024-10-09 04:39:42,577 - basicLogger - INFO - Number of disconnection events received: 10
+2024-10-09 04:39:43,454 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:39:47,551 - basicLogger - INFO - Number of match events received: 10
+2024-10-09 04:39:47,551 - basicLogger - INFO - Number of disconnection events received: 20
+2024-10-09 04:39:48,450 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:39:52,543 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:39:52,544 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:39:53,445 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:39:57,569 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:39:57,569 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:39:58,446 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:40:02,561 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:40:02,562 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:40:03,456 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:40:07,559 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:40:07,559 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:40:08,448 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:40:12,526 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:40:12,526 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:40:13,450 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:40:17,523 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:40:17,523 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:40:18,442 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:40:22,513 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:40:22,513 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:40:23,441 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:40:27,509 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:40:27,509 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:40:28,441 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:40:32,495 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:40:32,496 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:40:33,441 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:40:37,525 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:40:37,526 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:41:06,756 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:41:10,865 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:41:10,865 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:41:10,867 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:41:11,758 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:41:15,849 - basicLogger - INFO - Number of match events received: 20
+2024-10-09 04:41:15,850 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:41:15,850 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:41:16,756 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:41:20,842 - basicLogger - INFO - Number of match events received: 9
+2024-10-09 04:41:20,843 - basicLogger - INFO - Number of disconnection events received: 20
+2024-10-09 04:41:20,844 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:41:21,763 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:41:25,852 - basicLogger - INFO - Number of match events received: 11
+2024-10-09 04:41:25,852 - basicLogger - INFO - Number of disconnection events received: 10
+2024-10-09 04:41:25,852 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:49:41,601 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:49:45,633 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:49:45,633 - basicLogger - INFO - Number of disconnection events received: 10
+2024-10-09 04:49:45,633 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:49:46,606 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:49:50,726 - basicLogger - INFO - Number of match events received: 20
+2024-10-09 04:49:50,726 - basicLogger - INFO - Number of disconnection events received: 10
+2024-10-09 04:49:50,727 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:49:51,604 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:49:55,707 - basicLogger - INFO - Number of match events received: 10
+2024-10-09 04:49:55,707 - basicLogger - INFO - Number of disconnection events received: 10
+2024-10-09 04:49:55,709 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:49:56,596 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:50:00,678 - basicLogger - INFO - Number of match events received: 10
+2024-10-09 04:50:00,678 - basicLogger - INFO - Number of disconnection events received: 20
+2024-10-09 04:50:00,679 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:50:01,597 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:50:05,711 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:50:05,712 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:50:05,713 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:50:06,598 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:50:10,686 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:50:10,687 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:50:10,688 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:50:11,596 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:50:15,676 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:50:15,676 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:50:15,677 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:50:16,608 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:50:20,711 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:50:20,712 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:50:20,713 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:50:21,597 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:50:25,706 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:50:25,706 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:50:25,707 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:50:26,596 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:50:30,713 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:50:30,713 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:50:30,714 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:50:31,595 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:50:35,659 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:50:35,659 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:50:35,659 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:50:36,596 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:50:40,681 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:50:40,681 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:50:40,683 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:50:41,604 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:50:45,738 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:50:45,738 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:50:45,740 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:50:46,602 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:50:50,723 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:50:50,724 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:50:50,725 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:50:51,596 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:50:55,666 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:50:55,666 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:50:55,668 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:50:56,597 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:51:00,659 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:51:00,659 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:51:00,660 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:51:01,596 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:51:05,669 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:51:05,669 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:51:05,671 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:51:06,596 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:51:10,669 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:51:10,669 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:51:10,669 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:51:11,596 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:51:15,671 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:51:15,671 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:51:15,672 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:51:16,596 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:51:20,649 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:51:20,649 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:51:20,651 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:51:40,693 - basicLogger - INFO - Start get stats
+2024-10-09 04:51:43,517 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:51:47,625 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:51:47,625 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:51:47,626 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:51:48,176 - basicLogger - INFO - Start get stats
+2024-10-09 04:51:48,524 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:51:52,595 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:51:52,596 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:51:52,598 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:51:53,523 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:51:57,605 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:51:57,606 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:51:57,607 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:51:58,521 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:52:02,622 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:52:02,622 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:52:02,623 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:52:03,518 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:52:07,604 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:52:07,604 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:52:07,605 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:52:08,513 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:52:12,604 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:52:12,604 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:52:12,604 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:52:13,524 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:52:17,645 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:52:17,645 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:52:17,646 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:52:18,523 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:52:22,625 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:52:22,625 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:52:22,625 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:52:23,523 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:52:27,623 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:52:27,623 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:52:27,624 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:52:54,205 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:52:58,331 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:52:58,331 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:52:58,332 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:52:59,197 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:53:03,322 - basicLogger - INFO - Number of match events received: 10
+2024-10-09 04:53:03,322 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:53:03,324 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:53:04,209 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:53:08,299 - basicLogger - INFO - Number of match events received: 10
+2024-10-09 04:53:08,299 - basicLogger - INFO - Number of disconnection events received: 20
+2024-10-09 04:53:08,301 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:53:09,200 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:53:13,275 - basicLogger - INFO - Number of match events received: 20
+2024-10-09 04:53:13,275 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:53:13,276 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:53:14,202 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:53:18,311 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:53:18,311 - basicLogger - INFO - Number of disconnection events received: 20
+2024-10-09 04:53:18,312 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:53:19,114 - basicLogger - INFO - Start get stats
+2024-10-09 04:53:19,115 - basicLogger - DEBUG - Statistics data: {'num_match_readings': 240, 'num_disconnection_readings': 240, 'max_match_duration': 98.0, 'max_disconnection_latency': 980, 'last_updated': '2024-10-09T04:53:14'}
+2024-10-09 04:53:19,210 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:53:23,342 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:53:23,342 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:53:23,344 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:53:24,204 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:53:28,292 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:53:28,292 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:53:28,293 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:53:29,202 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:53:33,278 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:53:33,278 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:53:33,279 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:53:34,210 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:53:38,286 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:53:38,286 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:53:38,287 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:53:39,209 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:53:43,259 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:53:43,259 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:53:43,260 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:53:44,197 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:53:48,288 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:53:48,288 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:53:48,288 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:53:49,196 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:53:53,285 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:53:53,286 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:53:53,287 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:53:54,202 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:53:58,295 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:53:58,295 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:53:58,296 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:53:59,201 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:54:03,252 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:54:03,253 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:54:03,256 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:54:04,201 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:54:08,288 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:54:08,288 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:54:08,289 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:54:09,202 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:54:13,249 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:54:13,249 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:54:13,249 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:57:20,335 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:57:21,099 - basicLogger - INFO - Start get stats
+2024-10-09 04:57:21,099 - basicLogger - DEBUG - Statistics data: {'num_match_readings': 240, 'num_disconnection_readings': 240, 'max_match_duration': 98.0, 'max_disconnection_latency': 980, 'last_updated': '2024-10-09T04:54:09'}
+2024-10-09 04:57:24,438 - basicLogger - INFO - Number of match events received: 2
+2024-10-09 04:57:24,438 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:57:24,439 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:57:25,336 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:57:26,554 - basicLogger - INFO - Start get stats
+2024-10-09 04:57:26,555 - basicLogger - DEBUG - Statistics data: {'num_match_readings': 242, 'num_disconnection_readings': 240, 'max_match_duration': 98.0, 'max_disconnection_latency': 980, 'last_updated': '2024-10-09T04:57:20'}
+2024-10-09 04:57:29,448 - basicLogger - INFO - Number of match events received: 18
+2024-10-09 04:57:29,448 - basicLogger - INFO - Number of disconnection events received: 10
+2024-10-09 04:57:29,450 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:57:30,342 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:57:34,447 - basicLogger - INFO - Number of match events received: 10
+2024-10-09 04:57:34,447 - basicLogger - INFO - Number of disconnection events received: 10
+2024-10-09 04:57:34,448 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:57:35,341 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:57:39,389 - basicLogger - INFO - Number of match events received: 10
+2024-10-09 04:57:39,389 - basicLogger - INFO - Number of disconnection events received: 20
+2024-10-09 04:57:39,389 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:57:40,334 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:57:44,373 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:57:44,374 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:57:44,374 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:57:45,335 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:57:49,377 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:57:49,377 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:57:49,377 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:57:50,342 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:57:54,395 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:57:54,395 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:57:54,396 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:57:55,345 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:57:59,419 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:57:59,419 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:57:59,421 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:58:00,332 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:58:04,437 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:58:04,437 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:58:04,439 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:58:05,332 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:58:09,405 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:58:09,406 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:58:09,407 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:58:10,338 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:58:13,171 - basicLogger - INFO - Start get stats
+2024-10-09 04:58:13,172 - basicLogger - DEBUG - Statistics data: {'num_match_readings': 280, 'num_disconnection_readings': 280, 'max_match_duration': 98.0, 'max_disconnection_latency': 986, 'last_updated': '2024-10-09T04:58:05'}
+2024-10-09 04:58:14,434 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:58:14,434 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:58:14,435 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:58:15,343 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:58:16,962 - basicLogger - INFO - Start get stats
+2024-10-09 04:58:16,963 - basicLogger - DEBUG - Statistics data: {'num_match_readings': 280, 'num_disconnection_readings': 280, 'max_match_duration': 98.0, 'max_disconnection_latency': 986, 'last_updated': '2024-10-09T04:58:10'}
+2024-10-09 04:58:18,145 - basicLogger - INFO - Start get stats
+2024-10-09 04:58:18,145 - basicLogger - DEBUG - Statistics data: {'num_match_readings': 280, 'num_disconnection_readings': 280, 'max_match_duration': 98.0, 'max_disconnection_latency': 986, 'last_updated': '2024-10-09T04:58:10'}
+2024-10-09 04:58:19,235 - basicLogger - INFO - Start get stats
+2024-10-09 04:58:19,236 - basicLogger - DEBUG - Statistics data: {'num_match_readings': 280, 'num_disconnection_readings': 280, 'max_match_duration': 98.0, 'max_disconnection_latency': 986, 'last_updated': '2024-10-09T04:58:10'}
+2024-10-09 04:58:19,455 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:58:19,455 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:58:19,457 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:58:20,272 - basicLogger - INFO - Start get stats
+2024-10-09 04:58:20,272 - basicLogger - DEBUG - Statistics data: {'num_match_readings': 280, 'num_disconnection_readings': 280, 'max_match_duration': 98.0, 'max_disconnection_latency': 986, 'last_updated': '2024-10-09T04:58:15'}
+2024-10-09 04:58:20,336 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:58:24,455 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:58:24,455 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:58:24,456 - basicLogger - INFO - End Periodic Processing
+2024-10-09 04:58:25,337 - basicLogger - INFO - Start Periodic Processing
+2024-10-09 04:58:29,423 - basicLogger - INFO - Number of match events received: 0
+2024-10-09 04:58:29,423 - basicLogger - INFO - Number of disconnection events received: 0
+2024-10-09 04:58:29,424 - basicLogger - INFO - End Periodic Processing

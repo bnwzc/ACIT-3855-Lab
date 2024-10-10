@@ -1,0 +1,7 @@
+{
+    "num_match_readings": 280,
+    "num_disconnection_readings": 280,
+    "max_match_duration": 98.0,
+    "max_disconnection_latency": 986,
+    "last_updated": "2024-10-09T04:58:25"
+}

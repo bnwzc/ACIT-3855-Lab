@@ -1,0 +1,5 @@
+version: 1
+match:
+  url: http://localhost:8090/dota2/match
+disconnection:
+  url: http://localhost:8090/dota2/disconnection
