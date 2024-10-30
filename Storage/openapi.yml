@@ -14,24 +14,6 @@ tags:
 - name: dota2
   description: Operations available to dota2
 paths:
-  /dota2/match:
-    post:
-      tags:
-      - dota2
-      summary: reports matches
-      description: Add a new dota2 match info to the system.
-      operationId: app.report_dota2_match
-      requestBody:
-        description: Dota2 matches item to add
-        content:
-          application/json:
-            schema:
-              $ref: '#/components/schemas/Dota2Match'
-      responses:
-        "201":
-          description: item created
-        "400":
-          description: "invalid input, object invalid"
   /dota2/match_reading:
     get:
       tags:
@@ -73,25 +55,6 @@ paths:
                   message:
                     type: string
 
-  /dota2/disconnection:
-    post:
-      tags:
-      - dota2
-      summary: reports disconnections
-      description: |
-        Add a new dota2 disconnection info to the system.
-      operationId: app.report_dota2_disconnection
-      requestBody:
-        description: Dota2 disconnection item to add
-        content:
-          application/json:
-            schema:
-              $ref: '#/components/schemas/Dota2Disconnection'
-      responses:
-        "201":
-          description: item created
-        "400":
-          description: "invalid input, object invalid"
   /dota2/disconnection_reading:
     get:
       tags:

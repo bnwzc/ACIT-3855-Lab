@@ -1,7 +1,7 @@
 {
-    "num_match_readings": 280,
-    "num_disconnection_readings": 280,
-    "max_match_duration": 98.0,
-    "max_disconnection_latency": 986,
-    "last_updated": "2024-10-09T04:58:25"
+    "num_match_readings": 200,
+    "num_disconnection_readings": 200,
+    "max_match_duration": 99.9,
+    "max_disconnection_latency": 999,
+    "last_updated": "2024-10-10T11:20:23"
 }

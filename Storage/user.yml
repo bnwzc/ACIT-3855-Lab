@@ -1,7 +1,7 @@
 version: 1
 datastore:
-  user: root
-  password: TeamDK1998
-  hostname: localhost
+  user: kuangda
+  password: password
+  hostname: acit-3855-lab6.westus2.cloudapp.azure.com
   port: 3306
   db: events

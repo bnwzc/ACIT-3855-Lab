@@ -1,9 +1,23 @@
 import mysql.connector
 import yaml
+import logging
+import logging.config
+from datetime import datetime
+
 with open('user.yml', 'r') as f:
   user = yaml.safe_load(f.read())
 db_conn = mysql.connector.connect(host=user['datastore']['hostname'], user=user['datastore']['user'], password=user['datastore']['password'])
 db_cursor = db_conn.cursor()
+
+
+with open('log_conf.yml', 'r') as f:
+    log_config = yaml.safe_load(f.read())
+
+logger = logging.getLogger('basicLogger')
+
+
+logger.info(f"{datetime.now()} - basiclogger - INFO - Connecting to DB. Hostname:{user['datastore']['hostname']}, Port:{user['datastore']['port']}")
+
 
 db_cursor.execute(f"CREATE DATABASE IF NOT EXISTS {user['datastore']['db']}")
 db_cursor.execute(f"USE {user['datastore']['db']}")
