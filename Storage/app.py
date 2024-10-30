@@ -95,8 +95,7 @@ def get_disconnection_readings(start_timestamp, end_timestamp):
 
 def process_messages():
     """ Process event messages """
-    hostname = "%s:%d" % (app_config["events"]["hostname"],
-    app_config["events"]["port"])
+    hostname = "%s:%d" % (app_config["events"]["hostname"], app_config["events"]["port"])
     client = KafkaClient(hosts=hostname)
     topic = client.topics[str.encode(app_config["events"]["topic"])]
     # Create a consume on a consumer group, that only reads new messages

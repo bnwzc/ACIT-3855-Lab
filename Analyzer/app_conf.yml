@@ -1,0 +1,9 @@
+version: 1
+match:
+  url: http://localhost:8090/dota2/match
+disconnection:
+  url: http://localhost:8090/dota2/disconnection
+events:
+  hostname: acit-3855-lab6.westus2.cloudapp.azure.com
+  port: 9092
+  topic: events

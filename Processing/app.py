@@ -60,8 +60,8 @@ def populate_stats():
         start_timestamp = datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
         end_timestamp = datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
 
-            
-    match_responses = requests.get(app_config["eventstore"]["url"] + "/dota2/match_reading", params={"start_timestamp": start_timestamp, "end_timestamp": end_timestamp})
+    
+    match_responses= requests.get(app_config["eventstore"]["url"] + "/dota2/match_reading", params={"start_timestamp": start_timestamp, "end_timestamp": end_timestamp})
     disconnection_responses = requests.get(app_config["eventstore"]["url"] + "/dota2/disconnection_reading", params={"start_timestamp": start_timestamp, "end_timestamp": end_timestamp})
     if match_responses.status_code == 200:
         logger.info(f"Number of match events received: {len(match_responses.json())}")

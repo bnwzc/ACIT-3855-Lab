@@ -1,0 +1,142 @@
+2024-10-30 01:14:19,969 - basicLogger - INFO - Retrieving Match at index 3
+2024-10-30 01:14:20,075 - basicLogger - ERROR - Error while processing messages: 'index'
+2024-10-30 01:14:20,076 - basicLogger - ERROR - No more messages found
+2024-10-30 01:14:20,076 - basicLogger - ERROR - Could not find Match at index 3
+2024-10-30 01:14:39,656 - basicLogger - INFO - Retrieving Match at index 3
+2024-10-30 01:14:39,762 - basicLogger - ERROR - Error while processing messages: 'index'
+2024-10-30 01:14:39,762 - basicLogger - ERROR - No more messages found
+2024-10-30 01:14:39,762 - basicLogger - ERROR - Could not find Match at index 3
+2024-10-30 01:14:41,672 - basicLogger - INFO - Retrieving Match at index 3
+2024-10-30 01:14:41,781 - basicLogger - ERROR - Error while processing messages: 'index'
+2024-10-30 01:14:41,781 - basicLogger - ERROR - No more messages found
+2024-10-30 01:14:41,782 - basicLogger - ERROR - Could not find Match at index 3
+2024-10-30 01:14:52,729 - basicLogger - INFO - Retrieving Match at index 3
+2024-10-30 01:14:52,837 - basicLogger - ERROR - Error while processing messages: 'index'
+2024-10-30 01:14:52,838 - basicLogger - ERROR - No more messages found
+2024-10-30 01:14:52,838 - basicLogger - ERROR - Could not find Match at index 3
+2024-10-30 01:14:57,954 - basicLogger - INFO - Retrieving Match at index 1
+2024-10-30 01:14:58,159 - basicLogger - ERROR - Error while processing messages: 'index'
+2024-10-30 01:14:58,159 - basicLogger - ERROR - No more messages found
+2024-10-30 01:14:58,159 - basicLogger - ERROR - Could not find Match at index 1
+2024-10-30 01:15:27,722 - basicLogger - INFO - Retrieving Match at index 1
+2024-10-30 01:15:27,922 - basicLogger - ERROR - Error while processing messages: 'index'
+2024-10-30 01:15:27,923 - basicLogger - ERROR - No more messages found
+2024-10-30 01:15:27,923 - basicLogger - ERROR - Could not find Match at index 1
+2024-10-30 01:15:30,906 - basicLogger - INFO - Retrieving Match at index 0
+2024-10-30 01:15:31,015 - basicLogger - ERROR - Error while processing messages: 'index'
+2024-10-30 01:15:31,016 - basicLogger - ERROR - No more messages found
+2024-10-30 01:15:31,016 - basicLogger - ERROR - Could not find Match at index 0
+2024-10-30 01:15:48,127 - basicLogger - INFO - Retrieving Match at index 1
+2024-10-30 01:15:48,234 - basicLogger - ERROR - Error while processing messages: 'index'
+2024-10-30 01:15:48,235 - basicLogger - ERROR - No more messages found
+2024-10-30 01:15:48,235 - basicLogger - ERROR - Could not find Match at index 1
+2024-10-30 01:19:12,296 - basicLogger - INFO - Retrieving Match at index 1
+2024-10-30 01:19:12,406 - basicLogger - ERROR - Error while processing messages: 'index'
+2024-10-30 01:19:12,407 - basicLogger - ERROR - No more messages found
+2024-10-30 01:19:12,407 - basicLogger - ERROR - Could not find Match at index 1
+2024-10-30 01:19:19,844 - basicLogger - INFO - Retrieving Match at index 1
+2024-10-30 01:19:19,958 - basicLogger - ERROR - Error while processing messages: 'index'
+2024-10-30 01:19:19,959 - basicLogger - ERROR - No more messages found
+2024-10-30 01:19:19,959 - basicLogger - ERROR - Could not find Match at index 1
+2024-10-30 01:19:23,071 - basicLogger - INFO - Retrieving Match at index 4
+2024-10-30 01:19:23,177 - basicLogger - ERROR - Error while processing messages: 'index'
+2024-10-30 01:19:23,177 - basicLogger - ERROR - No more messages found
+2024-10-30 01:19:23,177 - basicLogger - ERROR - Could not find Match at index 4
+2024-10-30 01:43:58,617 - basicLogger - INFO - Retrieving Match at index 4
+2024-10-30 01:43:58,727 - basicLogger - ERROR - Error while processing messages: 'index'
+2024-10-30 01:43:58,728 - basicLogger - ERROR - No more messages found
+2024-10-30 01:43:58,728 - basicLogger - ERROR - Could not find Match at index 4
+2024-10-30 01:44:00,172 - basicLogger - INFO - Retrieving Match at index 4
+2024-10-30 01:44:00,286 - basicLogger - ERROR - Error while processing messages: 'index'
+2024-10-30 01:44:00,287 - basicLogger - ERROR - No more messages found
+2024-10-30 01:44:00,287 - basicLogger - ERROR - Could not find Match at index 4
+2024-10-30 01:44:01,170 - basicLogger - INFO - Retrieving Match at index 4
+2024-10-30 01:44:01,287 - basicLogger - ERROR - Error while processing messages: 'index'
+2024-10-30 01:44:01,287 - basicLogger - ERROR - No more messages found
+2024-10-30 01:44:01,287 - basicLogger - ERROR - Could not find Match at index 4
+2024-10-30 01:44:37,345 - basicLogger - INFO - Retrieving Match at index 4
+2024-10-30 01:44:37,463 - basicLogger - ERROR - Error while processing messages: 'index'
+2024-10-30 01:44:37,463 - basicLogger - ERROR - No more messages found
+2024-10-30 01:44:37,463 - basicLogger - ERROR - Could not find Match at index 4
+2024-10-30 01:44:38,583 - basicLogger - INFO - Retrieving Match at index 4
+2024-10-30 01:44:38,695 - basicLogger - ERROR - Error while processing messages: 'index'
+2024-10-30 01:44:38,695 - basicLogger - ERROR - No more messages found
+2024-10-30 01:44:38,696 - basicLogger - ERROR - Could not find Match at index 4
+2024-10-30 01:44:57,643 - basicLogger - INFO - Retrieving Match at index 4
+2024-10-30 01:44:57,746 - basicLogger - ERROR - Error while processing messages: 'index'
+2024-10-30 01:44:57,747 - basicLogger - ERROR - No more messages found
+2024-10-30 01:44:57,747 - basicLogger - ERROR - Could not find Match at index 4
+2024-10-30 01:45:00,226 - basicLogger - INFO - Retrieving Match at index 1
+2024-10-30 01:45:00,334 - basicLogger - ERROR - Error while processing messages: 'index'
+2024-10-30 01:45:00,334 - basicLogger - ERROR - No more messages found
+2024-10-30 01:45:00,334 - basicLogger - ERROR - Could not find Match at index 1
+2024-10-30 01:45:00,743 - basicLogger - INFO - Retrieving Match at index 1
+2024-10-30 01:45:00,954 - basicLogger - ERROR - Error while processing messages: 'index'
+2024-10-30 01:45:00,954 - basicLogger - ERROR - No more messages found
+2024-10-30 01:45:00,955 - basicLogger - ERROR - Could not find Match at index 1
+2024-10-30 01:46:15,470 - basicLogger - INFO - Retrieving Match at index 1
+2024-10-30 01:46:15,581 - basicLogger - ERROR - Error while processing messages: 'index'
+2024-10-30 01:46:15,581 - basicLogger - ERROR - No more messages found
+2024-10-30 01:46:15,582 - basicLogger - ERROR - Could not find Match at index 1
+2024-10-30 01:46:18,619 - basicLogger - INFO - Retrieving Match at index 0
+2024-10-30 01:46:18,724 - basicLogger - ERROR - Error while processing messages: 'index'
+2024-10-30 01:46:18,724 - basicLogger - ERROR - No more messages found
+2024-10-30 01:46:18,724 - basicLogger - ERROR - Could not find Match at index 0
+2024-10-30 01:46:29,219 - basicLogger - INFO - Retrieving Match at index 0
+2024-10-30 01:46:29,448 - basicLogger - ERROR - Error while processing messages: 'index'
+2024-10-30 01:46:29,448 - basicLogger - ERROR - No more messages found
+2024-10-30 01:46:29,448 - basicLogger - ERROR - Could not find Match at index 0
+2024-10-30 01:46:31,686 - basicLogger - INFO - Retrieving Match at index 1
+2024-10-30 01:46:31,814 - basicLogger - ERROR - Error while processing messages: 'index'
+2024-10-30 01:46:31,814 - basicLogger - ERROR - No more messages found
+2024-10-30 01:46:31,814 - basicLogger - ERROR - Could not find Match at index 1
+2024-10-30 01:46:32,005 - basicLogger - INFO - Retrieving Match at index 1
+2024-10-30 01:46:32,123 - basicLogger - ERROR - Error while processing messages: 'index'
+2024-10-30 01:46:32,124 - basicLogger - ERROR - No more messages found
+2024-10-30 01:46:32,124 - basicLogger - ERROR - Could not find Match at index 1
+2024-10-30 01:46:57,418 - basicLogger - INFO - Retrieving Match at index 1
+2024-10-30 01:46:57,539 - basicLogger - ERROR - Error while processing messages: 'index'
+2024-10-30 01:46:57,539 - basicLogger - ERROR - No more messages found
+2024-10-30 01:46:57,539 - basicLogger - ERROR - Could not find Match at index 1
+2024-10-30 01:47:44,434 - basicLogger - INFO - Retrieving Match at index 1
+2024-10-30 01:47:44,552 - basicLogger - ERROR - Error while processing messages: 'index'
+2024-10-30 01:47:44,552 - basicLogger - ERROR - No more messages found
+2024-10-30 01:47:44,552 - basicLogger - ERROR - Could not find Match at index 1
+2024-10-30 01:47:52,320 - basicLogger - INFO - Retrieving Match at index 1
+2024-10-30 01:47:52,442 - basicLogger - ERROR - Error while processing messages: 'index'
+2024-10-30 01:47:52,443 - basicLogger - ERROR - No more messages found
+2024-10-30 01:47:52,443 - basicLogger - ERROR - Could not find Match at index 1
+2024-10-30 01:49:02,422 - basicLogger - INFO - Retrieving Match at index 1
+2024-10-30 01:49:02,695 - basicLogger - ERROR - Error while processing messages: 'index'
+2024-10-30 01:49:02,696 - basicLogger - ERROR - No more messages found
+2024-10-30 01:49:02,696 - basicLogger - ERROR - Could not find Match at index 1
+2024-10-30 01:49:28,567 - basicLogger - INFO - Retrieving Match at index 1
+2024-10-30 01:49:28,691 - basicLogger - ERROR - Error while processing messages: 'index'
+2024-10-30 01:49:28,692 - basicLogger - ERROR - No more messages found
+2024-10-30 01:49:28,692 - basicLogger - ERROR - Could not find Match at index 1
+2024-10-30 01:54:04,077 - basicLogger - INFO - Retrieving Match at index 1
+2024-10-30 01:59:51,475 - basicLogger - INFO - Retrieving Match at index 1
+2024-10-30 02:00:04,109 - basicLogger - INFO - Retrieving Match at index 5
+2024-10-30 02:00:05,176 - basicLogger - ERROR - No more messages found
+2024-10-30 02:00:05,177 - basicLogger - ERROR - Could not find Match at index 5
+2024-10-30 02:00:08,339 - basicLogger - INFO - Retrieving Match at index 3
+2024-10-30 02:00:22,282 - basicLogger - INFO - Retrieving Match at index 1
+2024-10-30 02:00:25,746 - basicLogger - INFO - Retrieving Match at index 2
+2024-10-30 02:00:27,993 - basicLogger - INFO - Retrieving Match at index 0
+2024-10-30 02:00:34,166 - basicLogger - INFO - Retrieving Match at index 1
+2024-10-30 02:00:34,452 - basicLogger - INFO - Retrieving Match at index 19
+2024-10-30 02:10:23,211 - basicLogger - INFO - Retrieving Match at index 19
+2024-10-30 02:10:24,363 - basicLogger - INFO - Retrieving Match at index 19
+2024-10-30 02:10:39,446 - basicLogger - INFO - Retrieving Disconnection at index 19
+2024-10-30 02:10:44,517 - basicLogger - INFO - Retrieving Disconnection at index 19
+2024-10-30 02:10:45,136 - basicLogger - INFO - Retrieving Disconnection at index 19
+2024-10-30 02:11:45,001 - basicLogger - INFO - Retrieving Disconnection at index 19
+2024-10-30 02:11:50,287 - basicLogger - INFO - Retrieving Match at index 19
+2024-10-30 02:11:55,528 - basicLogger - INFO - Retrieving Disconnection at index 19
+2024-10-30 02:12:01,840 - basicLogger - INFO - Retrieving Match at index 19
+2024-10-30 02:13:24,631 - basicLogger - INFO - Retrieving Disconnection at index 19
+2024-10-30 02:13:40,795 - basicLogger - INFO - Retrieving Disconnection at index 39
+2024-10-30 02:15:02,341 - basicLogger - INFO - Retrieving Disconnection at index 3900
+2024-10-30 02:15:03,410 - basicLogger - ERROR - No more messages found
+2024-10-30 02:15:03,411 - basicLogger - ERROR - Could not find Disconnection at index 3900
+2024-10-30 02:48:20,326 - basicLogger - INFO - Retrieving Match at index 19

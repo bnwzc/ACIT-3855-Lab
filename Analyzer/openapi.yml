@@ -1,0 +1,204 @@
+openapi: 3.0.0
+info:
+  description: This API provides analyzer info
+  version: "1.0.0"
+  title: Analyzer API
+  contact:
+    email: kzhu28@my.bcit.ca
+
+paths:
+  /match:
+    get:
+      summary: Get a match reading from history
+      operationId: app.get_match_reading
+      description: Gets match readings from the event store
+      parameters:
+        - name: index
+          in: query
+          description: Gets the match at the specified index in the event store
+          required: true
+          schema:
+            type: integer
+            example: 100
+      responses:
+        '200':
+          description: Successfully returned a match event
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Event'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+                    example: "Invalid index parameter"
+        '404':
+          description: Not Found
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+                    example: "Match not found"
+
+  /disconnection:
+    get:
+      summary: Get a disconnection reading from history
+      operationId: app.get_disconnection_reading
+      description: Gets disconnection readings from the event store
+      parameters:
+        - name: index
+          in: query
+          description: Gets the disconnection at the specified index in the event store
+          required: true
+          schema:
+            type: integer
+            example: 100
+      responses:
+        '200':
+          description: Successfully returned a disconnection event
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Event'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+                    example: "Invalid index parameter"
+        '404':
+          description: Not Found
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+                    example: "Disconnection not found"
+
+  /stats:
+    get:
+      summary: Get the event stats
+      operationId: app.get_event_stats
+      description: Gets the stats of the history events
+      responses:
+        '200':
+          description: Successfully returned event stats
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Stats'
+
+components:
+  schemas:
+    Event:
+      required:
+        - index
+        - type
+        - datetime
+        - payload
+      type: object
+      properties:
+        index:
+          type: integer
+          example: 39
+        type:
+          type: string
+          enum:
+            - mt
+            - dc
+          example: "mt"
+        datetime:
+          type: string
+          format: date-time
+          example: "2024-10-30T02:02:29"
+        payload:
+          oneOf:
+            - $ref: '#/components/schemas/MatchReading'
+            - $ref: '#/components/schemas/DisconnectionReading'
+
+    MatchReading:
+      type: object
+      required:
+        - match_id
+        - rank
+        - winner
+        - duration
+        - trace_id
+      properties:
+        match_id:
+          type: string
+          format: uuid
+          example: "a1761273-bb66-4845-8173-299f6db32fe6"
+        rank:
+          type: string
+          example: "Legend"
+        winner:
+          type: boolean
+          example: true
+        duration:
+          type: number
+          format: float
+          example: 55.1
+        trace_id:
+          type: string
+          format: uuid
+          example: "64ce5256-670f-44f0-805f-fd0ad32593bb"
+
+    DisconnectionReading:
+      type: object
+      required:
+        - disconnection_id
+        - duration
+        - latency
+        - region
+        - server
+        - trace_id
+      properties:
+        disconnection_id:
+          type: string
+          format: uuid
+          example: "77421585-1419-4bab-947e-1e6e07182689"
+        region:
+          type: string
+          example: "North America"
+        server:
+          type: string
+          example: "US East"
+        duration:
+          type: number
+          format: float
+          example: 617
+        latency:
+          type: integer
+          example: 490
+        trace_id:
+          type: string
+          format: uuid
+          example: "894727e4-7594-47d3-bf41-5a92527db501"
+
+    Stats:
+      type: object
+      required:
+        - num_match
+        - num_disconnection
+      properties:
+        num_match:
+          type: integer
+          example: 100
+        num_disconnection:
+          type: integer
+          example: 100
