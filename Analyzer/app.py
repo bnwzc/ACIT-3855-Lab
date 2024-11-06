@@ -30,7 +30,7 @@ def get_match_reading(index):
     # index is large and messages are constantly being received!
     consumer = topic.get_simple_consumer(reset_offset_on_start=True, consumer_timeout_ms=1000)
     logger.info("Retrieving Match at index %d" % index)
-
+    count_match = -1
     try:
         for msg in consumer:
             msg_str = msg.value.decode('utf-8')
@@ -38,7 +38,9 @@ def get_match_reading(index):
             # Find the event at the index you want and
             # return code 200
             # i.e., return event, 200
-            if msg['index'] == index and msg['type'] == 'mt':
+            if msg['type'] == 'mt':
+                count_match = count_match + 1
+            if count_match == index and msg['type'] == 'mt':
                 return msg, 200
     except Exception as e:
         logger.error("Error while processing messages: %s", e)
@@ -61,7 +63,7 @@ def get_disconnection_reading(index):
     # index is large and messages are constantly being received!
     consumer = topic.get_simple_consumer(reset_offset_on_start=True, consumer_timeout_ms=1000)
     logger.info("Retrieving Disconnection at index %d" % index)
-
+    count_disconnection = -1
     try:
         for msg in consumer:
             msg_str = msg.value.decode('utf-8')
@@ -69,7 +71,11 @@ def get_disconnection_reading(index):
             # Find the event at the index you want and
             # return code 200
             # i.e., return event, 200
-            if msg['index'] == index and msg['type'] == 'dc':
+            print(index)
+            if msg['type'] == 'dc':
+                print(count_disconnection)
+                count_disconnection = count_disconnection + 1
+            if count_disconnection == index and msg['type'] == 'dc':
                 return msg, 200
     except Exception as e:
         logger.error("Error while processing messages: %s", e)

@@ -140,3 +140,375 @@
 2024-10-30 02:15:03,410 - basicLogger - ERROR - No more messages found
 2024-10-30 02:15:03,411 - basicLogger - ERROR - Could not find Disconnection at index 3900
 2024-10-30 02:48:20,326 - basicLogger - INFO - Retrieving Match at index 19
+2024-10-31 09:43:52,054 - basicLogger - INFO - Retrieving Match at index 1
+2024-10-31 09:43:53,062 - basicLogger - ERROR - No more messages found
+2024-10-31 09:43:53,064 - basicLogger - ERROR - Could not find Match at index 1
+2024-10-31 09:57:54,339 - basicLogger - INFO - Retrieving Match at index 0
+2024-10-31 09:57:57,729 - basicLogger - INFO - Retrieving Match at index 39
+2024-10-31 09:58:00,651 - basicLogger - INFO - Retrieving Match at index 40
+2024-10-31 09:58:01,697 - basicLogger - ERROR - No more messages found
+2024-10-31 09:58:01,699 - basicLogger - ERROR - Could not find Match at index 40
+2024-10-31 09:58:10,942 - basicLogger - INFO - Retrieving Disconnection at index 20
+2024-10-31 09:58:11,991 - basicLogger - ERROR - No more messages found
+2024-10-31 09:58:11,991 - basicLogger - ERROR - Could not find Disconnection at index 20
+2024-10-31 09:58:29,094 - basicLogger - INFO - Retrieving Disconnection at index 20
+2024-10-31 09:58:30,132 - basicLogger - ERROR - No more messages found
+2024-10-31 09:58:30,133 - basicLogger - ERROR - Could not find Disconnection at index 20
+2024-10-31 09:58:49,612 - basicLogger - INFO - Retrieving Disconnection at index 19
+2024-10-31 09:58:52,534 - basicLogger - INFO - Retrieving Disconnection at index 20
+2024-10-31 09:58:53,593 - basicLogger - ERROR - No more messages found
+2024-10-31 09:58:53,595 - basicLogger - ERROR - Could not find Disconnection at index 20
+2024-10-31 09:58:56,863 - basicLogger - INFO - Retrieving Disconnection at index 31
+2024-10-31 09:59:13,086 - basicLogger - INFO - Retrieving Disconnection at index 39
+2024-10-31 09:59:15,396 - basicLogger - INFO - Retrieving Disconnection at index 40
+2024-10-31 09:59:16,442 - basicLogger - ERROR - No more messages found
+2024-10-31 09:59:16,444 - basicLogger - ERROR - Could not find Disconnection at index 40
+2024-10-31 10:03:56,267 - basicLogger - INFO - Retrieving Disconnection at index 40
+2024-10-31 10:03:57,315 - basicLogger - ERROR - No more messages found
+2024-10-31 10:03:57,317 - basicLogger - ERROR - Could not find Disconnection at index 40
+2024-10-31 10:03:57,642 - basicLogger - INFO - Retrieving Disconnection at index 39
+2024-10-31 10:13:54,703 - basicLogger - INFO - Retrieving Disconnection at index 39
+2024-10-31 10:13:54,738 - basicLogger - ERROR - Error while processing messages: 'index'
+2024-10-31 10:13:54,739 - basicLogger - ERROR - No more messages found
+2024-10-31 10:13:54,740 - basicLogger - ERROR - Could not find Disconnection at index 0
+2024-10-31 10:13:56,822 - basicLogger - INFO - Retrieving Disconnection at index 39
+2024-10-31 10:13:56,859 - basicLogger - ERROR - Error while processing messages: 'index'
+2024-10-31 10:13:56,861 - basicLogger - ERROR - No more messages found
+2024-10-31 10:13:56,863 - basicLogger - ERROR - Could not find Disconnection at index 0
+2024-10-31 10:13:59,721 - basicLogger - INFO - Retrieving Disconnection at index 20
+2024-10-31 10:13:59,759 - basicLogger - ERROR - Error while processing messages: 'index'
+2024-10-31 10:13:59,761 - basicLogger - ERROR - No more messages found
+2024-10-31 10:13:59,761 - basicLogger - ERROR - Could not find Disconnection at index 0
+2024-10-31 10:13:59,980 - basicLogger - INFO - Retrieving Disconnection at index 20
+2024-10-31 10:14:00,028 - basicLogger - ERROR - Error while processing messages: 'index'
+2024-10-31 10:14:00,030 - basicLogger - ERROR - No more messages found
+2024-10-31 10:14:00,031 - basicLogger - ERROR - Could not find Disconnection at index 0
+2024-10-31 10:14:11,044 - basicLogger - INFO - Retrieving Match at index 20
+2024-10-31 10:14:11,081 - basicLogger - ERROR - Error while processing messages: 'index'
+2024-10-31 10:14:11,082 - basicLogger - ERROR - No more messages found
+2024-10-31 10:14:11,083 - basicLogger - ERROR - Could not find Match at index 0
+2024-10-31 10:14:14,268 - basicLogger - INFO - Retrieving Match at index 10
+2024-10-31 10:14:14,307 - basicLogger - ERROR - Error while processing messages: 'index'
+2024-10-31 10:14:14,308 - basicLogger - ERROR - No more messages found
+2024-10-31 10:14:14,309 - basicLogger - ERROR - Could not find Match at index 0
+2024-10-31 10:14:24,146 - basicLogger - INFO - Retrieving Match at index 70
+2024-10-31 10:14:24,185 - basicLogger - ERROR - Error while processing messages: 'index'
+2024-10-31 10:14:24,187 - basicLogger - ERROR - No more messages found
+2024-10-31 10:14:24,188 - basicLogger - ERROR - Could not find Match at index 0
+2024-10-31 10:14:28,551 - basicLogger - INFO - Retrieving Match at index 50
+2024-10-31 10:14:28,593 - basicLogger - ERROR - Error while processing messages: 'index'
+2024-10-31 10:14:28,595 - basicLogger - ERROR - No more messages found
+2024-10-31 10:14:28,602 - basicLogger - ERROR - Could not find Match at index 0
+2024-10-31 10:15:32,564 - basicLogger - INFO - Retrieving Match at index 50
+2024-10-31 10:15:37,253 - basicLogger - INFO - Retrieving Match at index 30
+2024-10-31 10:16:51,014 - basicLogger - INFO - Retrieving Match at index 30
+2024-10-31 10:19:52,088 - basicLogger - INFO - Retrieving Match at index 30
+2024-10-31 10:19:59,097 - basicLogger - INFO - Retrieving Match at index 30
+2024-10-31 10:20:14,120 - basicLogger - INFO - Retrieving Match at index 20
+2024-10-31 10:20:17,015 - basicLogger - INFO - Retrieving Match at index 50
+2024-10-31 10:20:20,376 - basicLogger - INFO - Retrieving Match at index 80
+2024-10-31 10:20:21,427 - basicLogger - ERROR - No more messages found
+2024-10-31 10:20:21,428 - basicLogger - ERROR - Could not find Match at index 80
+2024-10-31 10:20:24,276 - basicLogger - INFO - Retrieving Match at index 60
+2024-10-31 10:29:05,911 - basicLogger - INFO - Retrieving Match at index 60
+2024-10-31 10:29:06,994 - basicLogger - ERROR - No more messages found
+2024-10-31 10:29:06,996 - basicLogger - ERROR - Could not find Match at index 60
+2024-10-31 10:29:09,522 - basicLogger - INFO - Retrieving Match at index 30
+2024-10-31 10:29:11,479 - basicLogger - INFO - Retrieving Match at index 39
+2024-10-31 10:29:12,561 - basicLogger - ERROR - No more messages found
+2024-10-31 10:29:12,562 - basicLogger - ERROR - Could not find Match at index 39
+2024-10-31 10:29:14,618 - basicLogger - INFO - Retrieving Match at index 39
+2024-10-31 10:29:15,708 - basicLogger - ERROR - No more messages found
+2024-10-31 10:29:15,710 - basicLogger - ERROR - Could not find Match at index 39
+2024-10-31 10:29:18,893 - basicLogger - INFO - Retrieving Match at index 19
+2024-10-31 10:29:20,852 - basicLogger - INFO - Retrieving Match at index 20
+2024-10-31 10:29:23,032 - basicLogger - INFO - Retrieving Match at index 21
+2024-10-31 10:29:24,122 - basicLogger - ERROR - No more messages found
+2024-10-31 10:29:24,123 - basicLogger - ERROR - Could not find Match at index 21
+2024-10-31 10:29:26,652 - basicLogger - INFO - Retrieving Match at index 19
+2024-10-31 10:29:28,636 - basicLogger - INFO - Retrieving Match at index 0
+2024-10-31 10:29:30,403 - basicLogger - INFO - Retrieving Match at index 19
+2024-10-31 10:29:33,229 - basicLogger - INFO - Retrieving Match at index 21
+2024-10-31 10:29:34,305 - basicLogger - ERROR - No more messages found
+2024-10-31 10:29:34,307 - basicLogger - ERROR - Could not find Match at index 21
+2024-10-31 10:29:36,811 - basicLogger - INFO - Retrieving Match at index 20
+2024-10-31 10:31:24,517 - basicLogger - INFO - Retrieving Match at index 20
+2024-10-31 10:31:25,527 - basicLogger - ERROR - No more messages found
+2024-10-31 10:31:25,528 - basicLogger - ERROR - Could not find Match at index 20
+2024-10-31 10:31:27,794 - basicLogger - INFO - Retrieving Match at index 0
+2024-10-31 10:31:28,805 - basicLogger - ERROR - No more messages found
+2024-10-31 10:31:28,808 - basicLogger - ERROR - Could not find Match at index 0
+2024-10-31 10:31:30,775 - basicLogger - INFO - Retrieving Match at index 19
+2024-10-31 10:31:31,781 - basicLogger - ERROR - No more messages found
+2024-10-31 10:31:31,782 - basicLogger - ERROR - Could not find Match at index 19
+2024-10-31 10:31:33,382 - basicLogger - INFO - Retrieving Match at index 1
+2024-10-31 10:31:34,397 - basicLogger - ERROR - No more messages found
+2024-10-31 10:31:34,400 - basicLogger - ERROR - Could not find Match at index 1
+2024-10-31 10:37:30,105 - basicLogger - INFO - Retrieving Match at index 1
+2024-10-31 10:37:31,109 - basicLogger - ERROR - No more messages found
+2024-10-31 10:37:31,109 - basicLogger - ERROR - Could not find Match at index 1
+2024-10-31 10:37:32,767 - basicLogger - INFO - Retrieving Match at index 0
+2024-10-31 10:37:33,780 - basicLogger - ERROR - No more messages found
+2024-10-31 10:37:33,783 - basicLogger - ERROR - Could not find Match at index 0
+2024-10-31 10:37:33,997 - basicLogger - INFO - Retrieving Match at index 0
+2024-10-31 10:37:35,008 - basicLogger - ERROR - No more messages found
+2024-10-31 10:37:35,011 - basicLogger - ERROR - Could not find Match at index 0
+2024-10-31 10:39:37,192 - basicLogger - INFO - Retrieving Match at index 0
+2024-10-31 10:39:38,206 - basicLogger - ERROR - No more messages found
+2024-10-31 10:39:38,208 - basicLogger - ERROR - Could not find Match at index 0
+2024-10-31 10:42:47,804 - basicLogger - INFO - Retrieving Match at index 0
+2024-10-31 10:42:48,815 - basicLogger - ERROR - No more messages found
+2024-10-31 10:42:48,816 - basicLogger - ERROR - Could not find Match at index 0
+2024-10-31 10:44:04,321 - basicLogger - INFO - Retrieving Match at index 0
+2024-10-31 10:44:07,751 - basicLogger - INFO - Retrieving Match at index 39
+2024-10-31 10:44:09,700 - basicLogger - INFO - Retrieving Match at index 40
+2024-10-31 10:44:14,641 - basicLogger - INFO - Retrieving Match at index 41
+2024-10-31 10:44:15,679 - basicLogger - ERROR - No more messages found
+2024-10-31 10:44:15,680 - basicLogger - ERROR - Could not find Match at index 41
+2024-10-31 10:44:18,940 - basicLogger - INFO - Retrieving Match at index 0
+2024-10-31 10:44:25,800 - basicLogger - INFO - Retrieving Match at index 40
+2024-10-31 10:44:55,319 - basicLogger - INFO - Retrieving Match at index 39
+2024-10-31 10:45:04,860 - basicLogger - INFO - Retrieving Match at index 338
+2024-10-31 10:45:05,904 - basicLogger - ERROR - No more messages found
+2024-10-31 10:45:05,904 - basicLogger - ERROR - Could not find Match at index 338
+2024-10-31 10:45:07,160 - basicLogger - INFO - Retrieving Match at index 38
+2024-10-31 10:45:08,198 - basicLogger - ERROR - No more messages found
+2024-10-31 10:45:08,199 - basicLogger - ERROR - Could not find Match at index 38
+2024-10-31 10:45:10,417 - basicLogger - INFO - Retrieving Match at index 38
+2024-10-31 10:45:11,458 - basicLogger - ERROR - No more messages found
+2024-10-31 10:45:11,458 - basicLogger - ERROR - Could not find Match at index 38
+2024-10-31 10:45:14,535 - basicLogger - INFO - Retrieving Match at index 37
+2024-10-31 10:45:15,583 - basicLogger - ERROR - No more messages found
+2024-10-31 10:45:15,584 - basicLogger - ERROR - Could not find Match at index 37
+2024-10-31 10:45:18,327 - basicLogger - INFO - Retrieving Match at index 30
+2024-10-31 10:45:19,372 - basicLogger - ERROR - No more messages found
+2024-10-31 10:45:19,373 - basicLogger - ERROR - Could not find Match at index 30
+2024-10-31 10:55:48,045 - basicLogger - INFO - Retrieving Match at index 0
+2024-10-31 10:55:48,084 - basicLogger - ERROR - Error while processing messages: 'tuple' object has no attribute 'value'
+2024-10-31 10:55:48,085 - basicLogger - ERROR - No more messages found
+2024-10-31 10:55:48,086 - basicLogger - ERROR - Could not find Match at index 0
+2024-10-31 10:55:48,289 - basicLogger - INFO - Retrieving Match at index 0
+2024-10-31 10:55:48,323 - basicLogger - ERROR - Error while processing messages: 'tuple' object has no attribute 'value'
+2024-10-31 10:55:48,324 - basicLogger - ERROR - No more messages found
+2024-10-31 10:55:48,324 - basicLogger - ERROR - Could not find Match at index 0
+2024-10-31 10:55:50,164 - basicLogger - INFO - Retrieving Match at index 20
+2024-10-31 10:55:50,202 - basicLogger - ERROR - Error while processing messages: 'tuple' object has no attribute 'value'
+2024-10-31 10:55:50,204 - basicLogger - ERROR - No more messages found
+2024-10-31 10:55:50,205 - basicLogger - ERROR - Could not find Match at index 20
+2024-10-31 10:55:50,417 - basicLogger - INFO - Retrieving Match at index 20
+2024-10-31 10:55:50,461 - basicLogger - ERROR - Error while processing messages: 'tuple' object has no attribute 'value'
+2024-10-31 10:55:50,463 - basicLogger - ERROR - No more messages found
+2024-10-31 10:55:50,463 - basicLogger - ERROR - Could not find Match at index 20
+2024-10-31 10:55:52,128 - basicLogger - INFO - Retrieving Match at index 30
+2024-10-31 10:55:52,162 - basicLogger - ERROR - Error while processing messages: 'tuple' object has no attribute 'value'
+2024-10-31 10:55:52,163 - basicLogger - ERROR - No more messages found
+2024-10-31 10:55:52,163 - basicLogger - ERROR - Could not find Match at index 30
+2024-10-31 10:55:52,340 - basicLogger - INFO - Retrieving Match at index 30
+2024-10-31 10:55:52,385 - basicLogger - ERROR - Error while processing messages: 'tuple' object has no attribute 'value'
+2024-10-31 10:55:52,387 - basicLogger - ERROR - No more messages found
+2024-10-31 10:55:52,388 - basicLogger - ERROR - Could not find Match at index 30
+2024-10-31 10:56:03,676 - basicLogger - INFO - Retrieving Match at index 30
+2024-10-31 10:56:03,725 - basicLogger - ERROR - Error while processing messages: 'tuple' object has no attribute 'value'
+2024-10-31 10:56:03,726 - basicLogger - ERROR - No more messages found
+2024-10-31 10:56:03,727 - basicLogger - ERROR - Could not find Match at index 30
+2024-10-31 10:56:05,685 - basicLogger - INFO - Retrieving Match at index 30
+2024-10-31 10:56:05,734 - basicLogger - ERROR - Error while processing messages: 'tuple' object has no attribute 'value'
+2024-10-31 10:56:05,735 - basicLogger - ERROR - No more messages found
+2024-10-31 10:56:05,736 - basicLogger - ERROR - Could not find Match at index 30
+2024-10-31 10:56:08,830 - basicLogger - INFO - Retrieving Match at index 20
+2024-10-31 10:56:08,888 - basicLogger - ERROR - Error while processing messages: 'tuple' object has no attribute 'value'
+2024-10-31 10:56:08,890 - basicLogger - ERROR - No more messages found
+2024-10-31 10:56:08,891 - basicLogger - ERROR - Could not find Match at index 20
+2024-10-31 10:56:09,151 - basicLogger - INFO - Retrieving Match at index 20
+2024-10-31 10:56:09,205 - basicLogger - ERROR - Error while processing messages: 'tuple' object has no attribute 'value'
+2024-10-31 10:56:09,206 - basicLogger - ERROR - No more messages found
+2024-10-31 10:56:09,208 - basicLogger - ERROR - Could not find Match at index 20
+2024-10-31 10:56:11,143 - basicLogger - INFO - Retrieving Match at index 19
+2024-10-31 10:56:11,196 - basicLogger - ERROR - Error while processing messages: 'tuple' object has no attribute 'value'
+2024-10-31 10:56:11,199 - basicLogger - ERROR - No more messages found
+2024-10-31 10:56:11,200 - basicLogger - ERROR - Could not find Match at index 19
+2024-10-31 10:56:11,369 - basicLogger - INFO - Retrieving Match at index 19
+2024-10-31 10:56:11,423 - basicLogger - ERROR - Error while processing messages: 'tuple' object has no attribute 'value'
+2024-10-31 10:56:11,425 - basicLogger - ERROR - No more messages found
+2024-10-31 10:56:11,426 - basicLogger - ERROR - Could not find Match at index 19
+2024-10-31 10:56:13,233 - basicLogger - INFO - Retrieving Match at index 19
+2024-10-31 10:56:13,291 - basicLogger - ERROR - Error while processing messages: 'tuple' object has no attribute 'value'
+2024-10-31 10:56:13,293 - basicLogger - ERROR - No more messages found
+2024-10-31 10:56:13,294 - basicLogger - ERROR - Could not find Match at index 19
+2024-10-31 10:56:41,901 - basicLogger - INFO - Retrieving Match at index 19
+2024-10-31 10:56:41,953 - basicLogger - ERROR - Error while processing messages: 'tuple' object has no attribute 'value'
+2024-10-31 10:56:41,955 - basicLogger - ERROR - No more messages found
+2024-10-31 10:56:41,956 - basicLogger - ERROR - Could not find Match at index 19
+2024-10-31 10:56:43,456 - basicLogger - INFO - Retrieving Match at index 0
+2024-10-31 10:56:43,511 - basicLogger - ERROR - Error while processing messages: 'tuple' object has no attribute 'value'
+2024-10-31 10:56:43,513 - basicLogger - ERROR - No more messages found
+2024-10-31 10:56:43,517 - basicLogger - ERROR - Could not find Match at index 0
+2024-10-31 10:56:43,708 - basicLogger - INFO - Retrieving Match at index 0
+2024-10-31 10:56:43,767 - basicLogger - ERROR - Error while processing messages: 'tuple' object has no attribute 'value'
+2024-10-31 10:56:43,770 - basicLogger - ERROR - No more messages found
+2024-10-31 10:56:43,773 - basicLogger - ERROR - Could not find Match at index 0
+2024-10-31 10:56:50,223 - basicLogger - INFO - Retrieving Match at index 0
+2024-10-31 10:56:50,304 - basicLogger - ERROR - Error while processing messages: 'tuple' object has no attribute 'value'
+2024-10-31 10:56:50,306 - basicLogger - ERROR - No more messages found
+2024-10-31 10:56:50,307 - basicLogger - ERROR - Could not find Match at index 0
+2024-10-31 10:56:52,659 - basicLogger - INFO - Retrieving Match at index 19
+2024-10-31 10:56:52,726 - basicLogger - ERROR - Error while processing messages: 'tuple' object has no attribute 'value'
+2024-10-31 10:56:52,729 - basicLogger - ERROR - No more messages found
+2024-10-31 10:56:52,730 - basicLogger - ERROR - Could not find Match at index 19
+2024-10-31 10:56:52,909 - basicLogger - INFO - Retrieving Match at index 19
+2024-10-31 10:56:52,971 - basicLogger - ERROR - Error while processing messages: 'tuple' object has no attribute 'value'
+2024-10-31 10:56:52,975 - basicLogger - ERROR - No more messages found
+2024-10-31 10:56:52,985 - basicLogger - ERROR - Could not find Match at index 19
+2024-10-31 10:56:55,092 - basicLogger - INFO - Retrieving Match at index 0
+2024-10-31 10:56:55,152 - basicLogger - ERROR - Error while processing messages: 'tuple' object has no attribute 'value'
+2024-10-31 10:56:55,154 - basicLogger - ERROR - No more messages found
+2024-10-31 10:56:55,157 - basicLogger - ERROR - Could not find Match at index 0
+2024-10-31 10:56:55,348 - basicLogger - INFO - Retrieving Match at index 0
+2024-10-31 10:56:55,407 - basicLogger - ERROR - Error while processing messages: 'tuple' object has no attribute 'value'
+2024-10-31 10:56:55,409 - basicLogger - ERROR - No more messages found
+2024-10-31 10:56:55,411 - basicLogger - ERROR - Could not find Match at index 0
+2024-10-31 10:57:29,933 - basicLogger - INFO - Retrieving Match at index 0
+2024-10-31 10:57:29,993 - basicLogger - ERROR - Error while processing messages: 'tuple' object has no attribute 'value'
+2024-10-31 10:57:29,994 - basicLogger - ERROR - No more messages found
+2024-10-31 10:57:29,995 - basicLogger - ERROR - Could not find Match at index 0
+2024-10-31 10:57:31,735 - basicLogger - INFO - Retrieving Match at index 20
+2024-10-31 10:57:31,803 - basicLogger - ERROR - Error while processing messages: 'tuple' object has no attribute 'value'
+2024-10-31 10:57:31,805 - basicLogger - ERROR - No more messages found
+2024-10-31 10:57:31,806 - basicLogger - ERROR - Could not find Match at index 20
+2024-10-31 10:57:32,038 - basicLogger - INFO - Retrieving Match at index 20
+2024-10-31 10:57:32,099 - basicLogger - ERROR - Error while processing messages: 'tuple' object has no attribute 'value'
+2024-10-31 10:57:32,101 - basicLogger - ERROR - No more messages found
+2024-10-31 10:57:32,101 - basicLogger - ERROR - Could not find Match at index 20
+2024-10-31 10:57:33,788 - basicLogger - INFO - Retrieving Match at index 19
+2024-10-31 10:57:33,848 - basicLogger - ERROR - Error while processing messages: 'tuple' object has no attribute 'value'
+2024-10-31 10:57:33,849 - basicLogger - ERROR - No more messages found
+2024-10-31 10:57:33,850 - basicLogger - ERROR - Could not find Match at index 19
+2024-10-31 10:57:34,205 - basicLogger - INFO - Retrieving Match at index 100
+2024-10-31 10:57:34,266 - basicLogger - ERROR - Error while processing messages: 'tuple' object has no attribute 'value'
+2024-10-31 10:57:34,269 - basicLogger - ERROR - No more messages found
+2024-10-31 10:57:34,270 - basicLogger - ERROR - Could not find Match at index 100
+2024-10-31 10:57:37,241 - basicLogger - INFO - Retrieving Match at index 80
+2024-10-31 10:57:37,310 - basicLogger - ERROR - Error while processing messages: 'tuple' object has no attribute 'value'
+2024-10-31 10:57:37,312 - basicLogger - ERROR - No more messages found
+2024-10-31 10:57:37,313 - basicLogger - ERROR - Could not find Match at index 80
+2024-10-31 10:57:38,941 - basicLogger - INFO - Retrieving Match at index 19
+2024-10-31 10:57:38,999 - basicLogger - ERROR - Error while processing messages: 'tuple' object has no attribute 'value'
+2024-10-31 10:57:39,000 - basicLogger - ERROR - No more messages found
+2024-10-31 10:57:39,000 - basicLogger - ERROR - Could not find Match at index 19
+2024-10-31 10:57:39,300 - basicLogger - INFO - Retrieving Match at index 120
+2024-10-31 10:57:39,357 - basicLogger - ERROR - Error while processing messages: 'tuple' object has no attribute 'value'
+2024-10-31 10:57:39,358 - basicLogger - ERROR - No more messages found
+2024-10-31 10:57:39,361 - basicLogger - ERROR - Could not find Match at index 120
+2024-10-31 10:57:40,640 - basicLogger - INFO - Retrieving Match at index 19
+2024-10-31 10:57:40,705 - basicLogger - ERROR - Error while processing messages: 'tuple' object has no attribute 'value'
+2024-10-31 10:57:40,707 - basicLogger - ERROR - No more messages found
+2024-10-31 10:57:40,708 - basicLogger - ERROR - Could not find Match at index 19
+2024-10-31 10:57:41,124 - basicLogger - INFO - Retrieving Match at index 140
+2024-10-31 10:57:41,184 - basicLogger - ERROR - Error while processing messages: 'tuple' object has no attribute 'value'
+2024-10-31 10:57:41,186 - basicLogger - ERROR - No more messages found
+2024-10-31 10:57:41,188 - basicLogger - ERROR - Could not find Match at index 140
+2024-10-31 10:57:42,486 - basicLogger - INFO - Retrieving Match at index 19
+2024-10-31 10:57:42,541 - basicLogger - ERROR - Error while processing messages: 'tuple' object has no attribute 'value'
+2024-10-31 10:57:42,542 - basicLogger - ERROR - No more messages found
+2024-10-31 10:57:42,543 - basicLogger - ERROR - Could not find Match at index 19
+2024-10-31 10:57:42,947 - basicLogger - INFO - Retrieving Match at index 150
+2024-10-31 10:57:43,008 - basicLogger - ERROR - Error while processing messages: 'tuple' object has no attribute 'value'
+2024-10-31 10:57:43,010 - basicLogger - ERROR - No more messages found
+2024-10-31 10:57:43,011 - basicLogger - ERROR - Could not find Match at index 150
+2024-10-31 10:58:21,961 - basicLogger - INFO - Retrieving Match at index 0
+2024-10-31 10:58:22,020 - basicLogger - ERROR - Error while processing messages: 'tuple' object has no attribute 'value'
+2024-10-31 10:58:22,021 - basicLogger - ERROR - No more messages found
+2024-10-31 10:58:22,022 - basicLogger - ERROR - Could not find Match at index 0
+2024-10-31 10:58:22,219 - basicLogger - INFO - Retrieving Match at index 0
+2024-10-31 10:58:22,278 - basicLogger - ERROR - Error while processing messages: 'tuple' object has no attribute 'value'
+2024-10-31 10:58:22,280 - basicLogger - ERROR - No more messages found
+2024-10-31 10:58:22,282 - basicLogger - ERROR - Could not find Match at index 0
+2024-10-31 10:58:24,347 - basicLogger - INFO - Retrieving Match at index 19
+2024-10-31 10:58:24,406 - basicLogger - ERROR - Error while processing messages: 'tuple' object has no attribute 'value'
+2024-10-31 10:58:24,408 - basicLogger - ERROR - No more messages found
+2024-10-31 10:58:24,409 - basicLogger - ERROR - Could not find Match at index 19
+2024-10-31 10:58:24,798 - basicLogger - INFO - Retrieving Match at index 120
+2024-10-31 10:58:24,862 - basicLogger - ERROR - Error while processing messages: 'tuple' object has no attribute 'value'
+2024-10-31 10:58:24,864 - basicLogger - ERROR - No more messages found
+2024-10-31 10:58:24,866 - basicLogger - ERROR - Could not find Match at index 120
+2024-10-31 10:58:29,474 - basicLogger - INFO - Retrieving Disconnection at index 120
+2024-10-31 10:58:29,535 - basicLogger - ERROR - Error while processing messages: 'tuple' object has no attribute 'value'
+2024-10-31 10:58:29,537 - basicLogger - ERROR - No more messages found
+2024-10-31 10:58:29,538 - basicLogger - ERROR - Could not find Disconnection at index 120
+2024-10-31 10:58:32,426 - basicLogger - INFO - Retrieving Disconnection at index 19
+2024-10-31 10:58:32,487 - basicLogger - ERROR - Error while processing messages: 'tuple' object has no attribute 'value'
+2024-10-31 10:58:32,489 - basicLogger - ERROR - No more messages found
+2024-10-31 10:58:32,490 - basicLogger - ERROR - Could not find Disconnection at index 19
+2024-10-31 10:58:34,304 - basicLogger - INFO - Retrieving Disconnection at index 0
+2024-10-31 10:58:34,364 - basicLogger - ERROR - Error while processing messages: 'tuple' object has no attribute 'value'
+2024-10-31 10:58:34,366 - basicLogger - ERROR - No more messages found
+2024-10-31 10:58:34,368 - basicLogger - ERROR - Could not find Disconnection at index 0
+2024-10-31 11:02:04,495 - basicLogger - INFO - Retrieving Disconnection at index 0
+2024-10-31 11:02:04,595 - basicLogger - ERROR - Error while processing messages: 'tuple' object has no attribute 'value'
+2024-10-31 11:02:04,597 - basicLogger - ERROR - No more messages found
+2024-10-31 11:02:04,598 - basicLogger - ERROR - Could not find Disconnection at index 0
+2024-10-31 11:02:06,259 - basicLogger - INFO - Retrieving Disconnection at index 20
+2024-10-31 11:02:06,341 - basicLogger - ERROR - Error while processing messages: 'tuple' object has no attribute 'value'
+2024-10-31 11:02:06,343 - basicLogger - ERROR - No more messages found
+2024-10-31 11:02:06,344 - basicLogger - ERROR - Could not find Disconnection at index 20
+2024-10-31 11:02:06,631 - basicLogger - INFO - Retrieving Disconnection at index 20
+2024-10-31 11:02:06,731 - basicLogger - ERROR - Error while processing messages: 'tuple' object has no attribute 'value'
+2024-10-31 11:02:06,734 - basicLogger - ERROR - No more messages found
+2024-10-31 11:02:06,736 - basicLogger - ERROR - Could not find Disconnection at index 20
+2024-10-31 11:02:08,593 - basicLogger - INFO - Retrieving Disconnection at index 120
+2024-10-31 11:02:08,686 - basicLogger - ERROR - Error while processing messages: 'tuple' object has no attribute 'value'
+2024-10-31 11:02:08,689 - basicLogger - ERROR - No more messages found
+2024-10-31 11:02:08,692 - basicLogger - ERROR - Could not find Disconnection at index 120
+2024-10-31 11:02:10,374 - basicLogger - INFO - Retrieving Disconnection at index 140
+2024-10-31 11:02:10,451 - basicLogger - ERROR - Error while processing messages: 'tuple' object has no attribute 'value'
+2024-10-31 11:02:10,453 - basicLogger - ERROR - No more messages found
+2024-10-31 11:02:10,454 - basicLogger - ERROR - Could not find Disconnection at index 140
+2024-10-31 11:02:11,722 - basicLogger - INFO - Retrieving Disconnection at index 20
+2024-10-31 11:02:11,798 - basicLogger - ERROR - Error while processing messages: 'tuple' object has no attribute 'value'
+2024-10-31 11:02:11,800 - basicLogger - ERROR - No more messages found
+2024-10-31 11:02:11,801 - basicLogger - ERROR - Could not find Disconnection at index 20
+2024-10-31 11:02:11,997 - basicLogger - INFO - Retrieving Disconnection at index 20
+2024-10-31 11:02:12,077 - basicLogger - ERROR - Error while processing messages: 'tuple' object has no attribute 'value'
+2024-10-31 11:02:12,078 - basicLogger - ERROR - No more messages found
+2024-10-31 11:02:12,079 - basicLogger - ERROR - Could not find Disconnection at index 20
+2024-10-31 11:03:51,542 - basicLogger - INFO - Retrieving Disconnection at index 20
+2024-10-31 11:03:51,630 - basicLogger - ERROR - Error while processing messages: 'tuple' object has no attribute 'value'
+2024-10-31 11:03:51,631 - basicLogger - ERROR - No more messages found
+2024-10-31 11:03:51,631 - basicLogger - ERROR - Could not find Disconnection at index 20
+2024-10-31 11:03:52,837 - basicLogger - INFO - Retrieving Disconnection at index 19
+2024-10-31 11:03:52,912 - basicLogger - ERROR - Error while processing messages: 'tuple' object has no attribute 'value'
+2024-10-31 11:03:52,913 - basicLogger - ERROR - No more messages found
+2024-10-31 11:03:52,914 - basicLogger - ERROR - Could not find Disconnection at index 19
+2024-10-31 11:04:36,993 - basicLogger - INFO - Retrieving Disconnection at index 19
+2024-10-31 11:04:39,027 - basicLogger - INFO - Retrieving Disconnection at index 20
+2024-10-31 11:04:41,191 - basicLogger - INFO - Retrieving Disconnection at index 21
+2024-10-31 11:04:44,502 - basicLogger - INFO - Retrieving Disconnection at index 50
+2024-10-31 11:04:47,481 - basicLogger - INFO - Retrieving Disconnection at index 160
+2024-10-31 11:04:49,771 - basicLogger - INFO - Retrieving Disconnection at index 20
+2024-10-31 11:04:50,131 - basicLogger - INFO - Retrieving Disconnection at index 200
+2024-10-31 11:04:53,561 - basicLogger - INFO - Retrieving Disconnection at index 260
+2024-10-31 11:04:56,456 - basicLogger - INFO - Retrieving Disconnection at index 300
+2024-10-31 11:04:58,317 - basicLogger - ERROR - No more messages found
+2024-10-31 11:04:58,318 - basicLogger - ERROR - Could not find Disconnection at index 300
+2024-10-31 11:05:00,525 - basicLogger - INFO - Retrieving Disconnection at index 260
+2024-10-31 11:05:21,996 - basicLogger - INFO - Retrieving Disconnection at index 260
+2024-10-31 11:05:23,988 - basicLogger - INFO - Retrieving Disconnection at index 0
+2024-10-31 11:05:48,461 - basicLogger - INFO - Retrieving Disconnection at index 0
+2024-10-31 11:05:51,763 - basicLogger - INFO - Retrieving Disconnection at index 300
+2024-10-31 11:05:53,776 - basicLogger - ERROR - No more messages found
+2024-10-31 11:05:53,778 - basicLogger - ERROR - Could not find Disconnection at index 300
+2024-10-31 11:07:21,331 - basicLogger - INFO - Retrieving Disconnection at index 20
+2024-10-31 11:07:21,566 - basicLogger - INFO - Retrieving Disconnection at index 200
+2024-10-31 11:11:55,561 - basicLogger - INFO - Retrieving Disconnection at index 200
+2024-10-31 11:11:58,585 - basicLogger - INFO - Retrieving Disconnection at index 279
+2024-10-31 11:12:01,492 - basicLogger - INFO - Retrieving Disconnection at index 280
+2024-10-31 11:12:03,276 - basicLogger - ERROR - No more messages found
+2024-10-31 11:12:03,279 - basicLogger - ERROR - Could not find Disconnection at index 280
+2024-10-31 11:12:08,560 - basicLogger - INFO - Retrieving Match at index 280
+2024-10-31 11:12:09,700 - basicLogger - ERROR - No more messages found
+2024-10-31 11:12:09,702 - basicLogger - ERROR - Could not find Match at index 280
+2024-10-31 11:12:11,413 - basicLogger - INFO - Retrieving Match at index 20
+2024-10-31 11:12:12,035 - basicLogger - INFO - Retrieving Match at index 279
+2024-10-31 11:12:14,014 - basicLogger - INFO - Retrieving Match at index 20
+2024-10-31 11:12:14,485 - basicLogger - INFO - Retrieving Match at index 240
+2024-10-31 11:12:16,044 - basicLogger - INFO - Retrieving Match at index 0

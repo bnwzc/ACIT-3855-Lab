@@ -25,16 +25,7 @@ logger = logging.getLogger('basicLogger')
 
 
 
-if not os.path.exists("index.txt"):
-    with open("index.txt", 'w') as f:
-        f.write('0,0')
-with open("index.txt", 'r') as f:
-    content = f.read()
-    match_index, disconnection_index = content.split(',')
-    match_index = int(match_index)
-    disconnection_index = int(disconnection_index)
 def report_dota2_match(body):
-    global match_index
     trace_id = str(uuid.uuid4())
     logger.info(f"Received event match request with a trace id of {trace_id}.")
     body['trace_id'] = trace_id
@@ -48,21 +39,16 @@ def report_dota2_match(body):
     topic = client.topics[str.encode(f"{app_config['events']['topic']}")]
     producer = topic.get_sync_producer()
     msg = {
-        "index": match_index,
         "type": "mt",
         "datetime": datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S"),
         "payload": body
     }
     msg_str = json.dumps(msg)
     producer.produce(msg_str.encode('utf-8'))
-    match_index = match_index + 1
-    with open("index.txt", 'w') as f:
-        f.write(f"{match_index},{disconnection_index}")
     return NoContent, 201 
 
 
 def report_dota2_disconnection(body):
-    global disconnection_index
     trace_id = str(uuid.uuid4())
     logger.info(f"Received event disconnection request with a trace id of {trace_id}.")
     body['trace_id'] = trace_id
@@ -76,16 +62,12 @@ def report_dota2_disconnection(body):
     topic = client.topics[str.encode(f"{app_config['events']['topic']}")]
     producer = topic.get_sync_producer()
     msg = {
-        "index": disconnection_index, 
         "type": "dc",
         "datetime": datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S"),
         "payload": body
     }
     msg_str = json.dumps(msg)
     producer.produce(msg_str.encode('utf-8'))
-    disconnection_index = disconnection_index + 1
-    with open("index.txt", 'w') as f:
-        f.write(f"{match_index},{disconnection_index}")
     return NoContent, 201 
             
 

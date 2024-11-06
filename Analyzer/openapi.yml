@@ -106,7 +106,6 @@ components:
   schemas:
     Event:
       required:
-        - index
         - type
         - datetime
         - payload
